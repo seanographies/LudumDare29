@@ -172,7 +172,7 @@ package
 				FP.world.add(new TextBubble(256, 250, "Love Letter for: 2x Hearts",12));
 			}
 			if (GameManager.levelTicket == 9) {
-				FP.world.add(new TextBubble(64, 480, "Eaten souls are easily broken",12));
+				FP.world.add(new TextBubble(64, 480, "Eaten souls are easily broken with my Cigarettes",12));
 			}
 			if (GameManager.levelTicket == 12) {
 				FP.world.add(new TextBubble(32, 32, "You think a stupid love letter type writter \n and a innocent Human will save you?\n I know what you are trying to do\n and its not going to work and if it does\n it'll take too long and\nyou'll probably die of lung cancer.",16));
